@@ -1,5 +1,7 @@
 # Red/Code
 
+[![Join the chat at https://gitter.im/CodeSteeve/Lobby](https://badges.gitter.im/CodeSteeve/Lobby.svg)](https://gitter.im/CodeSteeve/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains code written in Red and its dialects by the Red community. The purpose is to provide a central place that is easy enough to find for newcomers to check for some Red code examples, demos, libraries and apps. There are four sections in the repository, Apps, Scripts, ShowCase and Library. This repository is curated in the sense that contributions are included when they meet the applicable criteria.
 
 ## Apps
